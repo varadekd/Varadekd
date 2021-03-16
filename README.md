@@ -5,10 +5,10 @@
 <br>
 <br>
 
-Hello, namaste welcome to my GitHub! I'm Kushagra, Senior Software Engineer, Currently working with RobusTest in creating application testing platform. I am on side planning to start writing techical blogs. 
+Hello, namaste welcome to my GitHub! I'm Kushagra, Senior Software Engineer, Currently working with RobusTest in creating an application testing platform. I am on the side planning to start writing technical blogs. 
 
 ### ⚡ Tech stack
-- Prigraming Languages 
+- Programing Languages 
 <br><br>
   <code><img height="30" src="https://cdn.svgporn.com/logos/go.svg"></code>
   
@@ -17,7 +17,7 @@ Hello, namaste welcome to my GitHub! I'm Kushagra, Senior Software Engineer, Cur
   <code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></code> 
   <code><img height="30" src="https://cdn.svgporn.com/logos/bash-icon.svg"></code> 
 
-- Web technogloies and Frameworks
+- Web technologies and Frameworks
 <br><br>
   <code><img height="40" src="https://cdn.svgporn.com/logos/html-5.svg"></code> 
   <code><img height="40" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
@@ -45,10 +45,10 @@ Hello, namaste welcome to my GitHub! I'm Kushagra, Senior Software Engineer, Cur
 - Sevlte
 
 ### 👩‍💻 I'm working on
-- Building a application testing platform, And contributing to some of the open source projects.
+- Building an application testing platform, And contributing to some of the open-source projects.
 
 ### 💡 Goals 
-- Start read novels more iften.
+- Start read novels more often.
 - Improve vocab for better communication. 
 - Learn new concepts and improve skills in JavaScript and Go.
 - Complete all the pending projects
@@ -56,8 +56,7 @@ Hello, namaste welcome to my GitHub! I'm Kushagra, Senior Software Engineer, Cur
 
 ### 🌴 Fun facts
 
-- I love going to treks and cook some good food.  
-- I have travel every state possible in India by 2023.
+- I love going on treks and cook some good food.  
 
 ### ☕ Get in touch
 [![Twitter Badge](https://img.shields.io/badge/@Varade19-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Varade19)](https://twitter.com/Varade19) 
