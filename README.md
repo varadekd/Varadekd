@@ -66,6 +66,3 @@ Hello, namaste welcome to my GitHub! I'm Kushagra, Senior Software Engineer, Cur
 [![Medium Badge](https://img.shields.io/badge/-@kushagravarade-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@kushagravarade)](https://medium.com/@kushagravarade)
 [![Gmail Badge](https://img.shields.io/badge/-kush.varade.19-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kush.varade.19@gmail.com)](mailto:kush.varade.19@gmail.com)
 
-
-### 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zyt57fcvxfe5csglnzufs33bai&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
