@@ -41,11 +41,12 @@ My current quests in the tech realm:
 - Further exploration into `Google Cloud` if the seas of Digital Ocean prove turbulent
 
 ## 🛠 Creations - The Completed Quests
+- **RobusTest**: Izinga Software designed a testing framework wherein I played a key role in laying the foundation and developing the product.
 - **Randomize Paper Generator**: Conjuring a diverse array of test papers to challenge the brightest minds [Under re-development].
 - **Creative Analytic Dashboard**: Weaving a tapestry of data that speaks volumes.
 
 ## 🌱 In the Forge - Upcoming Projects
-- TBD
+- **My Portfolio**: This portfolio will consist of my articles, upcoming works, and the journey I've experienced so far. [Beta launch scheduled for December 4, 2023] [Repository link will be shared soon.]
 
 ## 🤝 Join Forces
 
