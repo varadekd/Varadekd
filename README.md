@@ -52,9 +52,9 @@ My current quests in the tech realm:
 
 Embark on a coding crusade with me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagravarade/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://kushagravarade.medium.com/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Varade19)
 <!-- [![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](YOUR_SUBSTACK_URL) -->
 
 ## 💼 Hire a Hero
