@@ -46,7 +46,8 @@ My current quests in the tech realm:
 - **Creative Analytic Dashboard**: Weaving a tapestry of data that speaks volumes.
 
 ## 🌱 In the Forge - Upcoming Projects
-- **My Portfolio**: This portfolio will consist of my articles, upcoming works, and the journey I've experienced so far. [Beta launch scheduled for December 4, 2023] [Repository link will be shared soon.]
+- **My Portfolio**: This portfolio will consist of my articles, upcoming works, and the journey I've experienced so far. [On Hold]
+- **Boilerplate**: This a bolier plate cmdline tool, aiming to allow developers to quickly start development on the prefered langauge without worrying about the folder structure. [Details will be soon shared] 
 
 ## 🤝 Join Forces
 
@@ -59,7 +60,7 @@ Embark on a coding crusade with me:
 
 ## 💼 Hire a Hero
 In search of a tech ally? Let's turn the page on traditional coding:
-📅 [Book a chat with the hero](https://calendly.com/kushagravarade/codequest)
+📅 [Book a chat with the hero](https://calendly.com/kushagravarade/new-project-discussion)
 
 <!-- Baymax and Hiro high-five GIF -->
 <p align="center">
